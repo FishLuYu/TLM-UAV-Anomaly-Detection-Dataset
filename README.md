@@ -12,4 +12,5 @@ https://doi.org/10.3390/app13074301
 “Fusion_Data.csv” is a TLM dataset that has been processed by a multi-sensor data fusion technique, if you want to use it, please cite the following article:
 https://doi.org/10.1016/j.engappai.2024.107961
 
-Download: https://www.kaggle.com/datasets/luyucwnu/tlmuav-anomaly-detection-datasets/
+You can download the datasets here: https://www.kaggle.com/datasets/luyucwnu/tlmuav-anomaly-detection-datasets/.
+Or you can download the dataset in our release.
